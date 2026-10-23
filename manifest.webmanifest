@@ -1,0 +1,1 @@
+{"name": "Universal AI Translator Pro", "short_name": "AI Translator", "start_url": "./index.html", "display": "standalone", "background_color": "#080f1d", "theme_color": "#0b1427", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
