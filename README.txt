@@ -1,0 +1,1 @@
+V1.2: texto gratis mediante MyMemory, con límites del proveedor. Requiere internet. Detección aproximada, no garantizada. No usar textos confidenciales. Para actualizar GitHub reemplazar index.html y sw.js en raíz. Voz en vivo depende de navegador; audio e imágenes necesitan backend.
